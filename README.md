@@ -3,4 +3,4 @@
   * https://github.com/cjcliffe/CubicSDR/issues/589
 
 ### TODO
-  * start wx from WSL
+  * start wx from WSL `pip install wxPython`
